@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renuka Mavale</h1>
 <h3 align="center">A enthusiastic Software Engineer from India</h3>
 
-- 🌱 I’m currently pursuing **B.Tech from Pune**
+- 🌱 I’m pursuing **B.Tech from Pune**
 
 - 📫 How to reach me **renukamavale82@gmail.com**
 
