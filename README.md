@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renuka Mavale</h1>
-<h3 align="center">A enthusiastic Software Engineer from India</h3>
+<h3 align="center">An enthusiastic Software Engineer from India</h3>
 
 - 🌱 I’m pursuing **B.Tech from Pune**
 
