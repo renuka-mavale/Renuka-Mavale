@@ -1,24 +1,43 @@
-# 👋 Hi, I’m Renuka Mavale
+# 👋 Hi, I'm Renuka Mavale
 
-🎓 I am an **Information Technology (IT) Engineering student**, currently in my **3rd year** of college.  
-💻 I enjoy programming and building a strong foundation in computer science.
+🎓 Third-Year Information Technology Engineering Student | 💻 Aspiring Java Developer
 
-## 🚀 About Me
-- 📚 3rd Year IT Engineering Student  
-- 💡 Interested in software development and problem solving  
-- 🌱 Continuously learning and improving my technical skills  
+I'm passionate about building practical software solutions and continuously improving my skills in Java, Data Structures & Algorithms, and Full Stack Development. I enjoy solving problems and developing projects that strengthen my understanding of software engineering.
 
-## 🧠 Skills
-- Programming Languages: **Java, C, C++**  
-- **Data Structures & Algorithms (Fundamentals)**  
-- **Object-Oriented Programming (OOPs) Concepts**  
+## 🚀 Tech Stack
 
-## 🎯 Goals
-- Strengthen problem-solving skills  
-- Build real-world projects  
-- Prepare for internships and placements
+**Languages:** Java, JavaScript, SQL
+
+**Web:** HTML, CSS, JavaScript
+
+**Core Concepts:** OOP, DSA, DBMS, Operating System, Collections Framework, Exception Handling
+
+**Database:** MySQL
+
+**Tools:** Git, GitHub, Eclipse IDE, VS Code
+
+## 📂 Featured Projects
+
+* 🏦 **Bank Management System** (Core Java)
+* 🎓 **Class Management System** (Core Java)
+* 🧮 **Java Calculator**
+* 🌐 **AdiCore Academy** (Educational Website)
+
+## 🌱 Currently Learning
+
+* Advanced Java
+* Spring Boot
+* REST APIs
+* Full Stack Java Development
+
+## 🎯 Career Objective
+
+Seeking opportunities to apply my Java development and problem-solving skills through internships and real-world software projects.
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/renuka-mavale
-- Email: renukamavale82@gmail.com
-- LinkedIn: www.linkedin.com/in/renuka-mavale2005
+
+* 📧 **Email:** [renukamavale82@gmail.com](mailto:renukamavale82@gmail.com)
+* 💼 **LinkedIn:** [www.linkedin.com/in/renuka-mavale2005](http://www.linkedin.com/in/renuka-mavale2005)
+* 💻 **GitHub:** https://github.com/renuka-mavale
+
+⭐ *Always learning, building, and growing through code.*
