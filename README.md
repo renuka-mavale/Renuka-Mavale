@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Renuka Mavale
 
-🎓 Third-Year Information Technology Engineering Student | 💻 Aspiring Java Developer
+🎓 Final-Year Information Technology Engineering Student | 💻 Aspiring Java Developer
 
 I'm passionate about building practical software solutions and continuously improving my skills in Java, Data Structures & Algorithms, and Full Stack Development. I enjoy solving problems and developing projects that strengthen my understanding of software engineering.
 
@@ -11,7 +11,7 @@ I'm passionate about building practical software solutions and continuously impr
 
 **Web:** HTML, CSS, JavaScript
 
-**Core Concepts:** OOP, DSA, DBMS, Operating System, Collections Framework, Exception Handling
+**Core Concepts:** OOP, DSA, DBMS, Operating System, Collections Framework, Exception Handling, JDBC Connectivity
 
 **Database:** MySQL
 
