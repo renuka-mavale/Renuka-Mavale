@@ -1,47 +1,96 @@
 # 👋 Hi, I'm Renuka Mavale
 
-🎓 Final-Year Information Technology Engineering Student | 💻 Aspiring Java Developer
+### 💻 Java Developer | Backend Development Enthusiast | Problem Solver
 
-I'm passionate about building practical software solutions and continuously improving my skills in Java, Data Structures & Algorithms, and Full Stack Development. I enjoy solving problems and developing projects that strengthen my understanding of software engineering.
+🎓 **BE Information Technology | 2027 Batch**
 
+I'm an aspiring **Java Developer** passionate about building practical and scalable software applications. I enjoy working with **Java, Hibernate, SQL, and backend technologies**, while continuously strengthening my problem-solving and software development skills.
 
-## 🚀 Tech Stack
+I believe in learning by building — turning concepts into real-world projects and continuously improving my code, understanding, and development practices.
 
-**Languages:** Java, JavaScript, SQL
+---
 
-**Web:** HTML, CSS, JavaScript
+## 🛠️ Tech Stack
 
-**Core Concepts:** OOP, DSA, DBMS, Operating System, Collections Framework, Exception Handling, JDBC Connectivity
+### 💻 Programming
+- Java
+- JavaScript
+- SQL
 
-**Database:** MySQL
+### 🌐 Web Development
+- HTML
+- CSS
+- JavaScript
 
-**Tools:** Git, GitHub, Eclipse IDE, VS Code
+### ☕ Java & Backend
+- Core Java
+- OOP
+- Collections Framework
+- Exception Handling
+- JDBC
+- Hibernate ORM
+- HQL
 
+### 🗄️ Database
+- MySQL
+- SQL
 
-## 📂 Featured Projects
+### 🧠 Computer Science
+- Data Structures & Algorithms
+- DBMS
+- Operating Systems
 
-* 🏦 **Bank Management System** (Core Java)
-* 🎓 **Class Management System** (Core Java)
-* 🧮 **Java Calculator**
-* 🌐 **AdiCore Academy** (Educational Website)
+### 🔧 Tools
+- Git
+- GitHub
+- Eclipse IDE
+- VS Code
 
+---
+
+## 🚀 Featured Projects
+
+### 🏦 Bank Management System
+**Java | JDBC | MySQL**
+
+A console-based banking application implementing customer management, account creation, deposits, withdrawals, and balance management.
+
+### 🎓 College Management System
+**Java | Hibernate | HQL | MySQL**
+
+A database-driven college management application implementing student CRUD operations, HQL queries, search functionality, and transaction management.
+
+---
 
 ## 🌱 Currently Learning
 
-* Advanced Java
-* Spring Boot
-* REST APIs
-* Full Stack Java Development
+- 🚀 Spring Boot
+- 🔗 REST APIs
+- ☕ Advanced Java
+- 🌐 Full Stack Java Development
 
+---
 
-## 🎯 Career Objective
+## 🎯 Career Goal
 
-Seeking opportunities to apply my Java development and problem-solving skills through internships and real-world software projects.
+I'm looking for opportunities where I can apply my **Java development, database, and problem-solving skills** to real-world software projects while learning from experienced developers and growing as a software engineer.
 
+---
+
+## 📊 What I Enjoy
+
+- 💡 Building practical projects
+- 🧩 Solving coding problems
+- ☕ Working with Java
+- 🗄️ Designing database-driven applications
+---
 
 ## 📫 Connect With Me
 
-* 📧 **Email:** [renukamavale82@gmail.com](mailto:renukamavale82@gmail.com)
-* 💼 **LinkedIn:** [www.linkedin.com/in/renuka-mavale2005](http://www.linkedin.com/in/renuka-mavale2005)
+📧 **Email:** [renukamavale82@gmail.com](mailto:renukamavale82@gmail.com)
 
-⭐ *Always learning, building, and growing through code.*
+💼 **LinkedIn:** [linkedin.com/in/renuka-mavale2005](https://www.linkedin.com/in/renuka-mavale2005)
+
+---
+
+⭐ **Always learning. Always building. Always improving.**
